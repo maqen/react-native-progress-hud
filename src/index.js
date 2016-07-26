@@ -1,6 +1,6 @@
 'use strict';
 
-var React = require('react-native');
+import React, { Component, PropTypes } from 'react';
 
 var {
   Image,
@@ -9,7 +9,7 @@ var {
   View,
   Animated,
   Easing,
-} = React;
+} = require('react-native');
 
 var styles = require('./styles');
 var images = require('./images');
