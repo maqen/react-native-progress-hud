@@ -1,6 +1,6 @@
 {
   "name": "react-native-progress-hud",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A clean and lightweight progress HUD for your React Native app.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/naoufal/react-native-progress-hud.git"
+    "url": "https://github.com/maqen/react-native-progress-hud.git"
   },
   "keywords": [
     "react",
@@ -21,8 +21,8 @@
     "loading",
     "react-component"
   ],
-  "author": "Naoufal Kadhom <naoufalkadhom@gmail.com> (https://github.com/naoufal)",
-  "license": "ISC",
+  "author": "",
+  "license": "",
   "bugs": {
     "url": "https://github.com/naoufal/react-native-progress-hud/issues"
   },
